@@ -40,7 +40,13 @@ const OBrian = {
 </p><br>
 
   
+ ## Métrica 📌
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obrian-code)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=obrian-code&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/obrian-code)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obrian-code)  
 
