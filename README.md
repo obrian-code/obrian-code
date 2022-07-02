@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy O'Brian Saavedra! :stars:</h1>
 <h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<h3 align="center"> Desarrollador Web & Mobile Full Stack MERN Junior ...!!!</h3>
+<h3 align="center"> Desarrollador Web Full Stack MERN Junior ...!!!</h3>
 
 ## Acerca de :wave:
 
