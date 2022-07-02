@@ -97,7 +97,7 @@ const OBrian = {
   <em>Si deseas saber más de mí mándame un mensaje por privado o a mi correo público. ¿Coordinamos una cita?</b> :blush:</em>
 <a href="https://www.linkedin.com/in/obriansaa/" target="__blank"><br><br>
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
+  |
   <a href="mailto:lgjhons@gmail.com" target="__blank"><br><br>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
             
