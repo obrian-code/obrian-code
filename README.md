@@ -42,9 +42,6 @@ const OBrian = {
   
  ## Métrica 📌
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obrian-code)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=obrian-code&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/obrian-code)  
 
@@ -56,7 +53,7 @@ const OBrian = {
 <br />
 <p align="center">
   <em>Si deseas saber más de mí mándame un mensaje por privado o a mi correo público. ¿Coordinamos una cita?</b> :blush:</em>
-<a href="https://www.linkedin.com/in/obriansaa/" target="__blank"><br><br><br>
+<a href="https://www.linkedin.com/in/obriansaa/" target="__blank"><br><br>
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </p>
