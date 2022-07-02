@@ -45,9 +45,9 @@ const OBrian = {
 
 ![GitHub metrics](https://metrics.lecoq.io/obrian-code)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=obrian-code&show_icons=true&count_private=true) 
-
 ![Profile views](https://gpvc.arturio.dev/obrian-code)  
+
+
 
 ## Conectarme 📫 
 <br />
