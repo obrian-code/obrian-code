@@ -7,6 +7,15 @@ Habilidades: VUE JS / JS / HTML / CSS
 
 - 🔭 Estoy trabajando en this page. 
 
+const Andy = {
+🖥️ Soy un Desarrollador Web Autodidacta orientado al Frontend.
+🔎 Actualmente tengo conocimientos en Frontend y Estudiando
+  algunas Tecnologias Backend para lograr ser un Desarrollador con el Stack MERN 
+⚡ Me caracterizo por ser una persona Dedicada, Proactiva,
+  Responsable, Con ganas de Aprender y poder brindar mis conocimientos
+  en un entorno laboral y poder desarrollarme en un Equipo.
+}
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/obrian-code)  
 
