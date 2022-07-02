@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width"100px"/>
+  <img src="https://www.pngwing.com/en/search?q=web+Developer" width"100px"/>
 </p>
 <h1 align="center">Hi, I'm O'Brian Saavedra! :stars:</h1>
 <h3 align="center">  FrontEnd Developer Junior <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
