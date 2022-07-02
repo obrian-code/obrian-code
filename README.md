@@ -40,13 +40,7 @@ const OBrian = {
 </p><br>
 
   
-  
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/obrian-code)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obrian-code)  
 
@@ -57,5 +51,6 @@ const OBrian = {
 <p align="center">
 <a href="https://www.linkedin.com/in/obriansaa/" target="__blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+  
+  </p>
