@@ -16,6 +16,8 @@ const OBrian = {
 ``` 
 ⭐️ Portafolio [O'Brian Saavedra](https://obriansaa.netlify.app/)
 
+
+
 ## Tecnología 🛠
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -82,9 +84,8 @@ const OBrian = {
  
  
  ## Métrica 📌
- 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InterTech20&show_icons=true&count_private=true) 
+![GitHub metrics](https://metrics.lecoq.io/obrian-code)  
 
 ![Profile views](https://gpvc.arturio.dev/obrian-code)  
 
