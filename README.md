@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm O'Brian Saavedra! :stars:</h1>
+<h1 align="center">Hola, soy O'Brian Saavedra! :stars:</h1>
 <h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <h3 align="center"> Desarrollador Web & Mobile Full Stack MERN Junior ...!!!</h3>
 
-## About Me :wave:
+## Acerca de :wave:
 
 ```javascript
 const OBrian = {
@@ -46,11 +46,11 @@ const OBrian = {
 
 ![Profile views](https://gpvc.arturio.dev/obrian-code)  
 
-  <h3 align="center"> Other Accounts 📫 </h3>
+  <h3 align="center"> Conectarme 📫 </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/obriansaa/" target="__blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Si deseas saber más de mí mándame un mensaje por privado o a mi correo público. ¿Coordinamos una cita?</b> :blush:</em>
   
   </p>
