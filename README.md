@@ -91,7 +91,7 @@ const OBrian = {
 
 
 
-## Conectarme 📫 
+## Contáctame 📫 
 <br />
 <p align="center">
   <em>Si deseas saber más de mí mándame un mensaje por privado o a mi correo público. ¿Coordinamos una cita?</b> :blush:</em>
