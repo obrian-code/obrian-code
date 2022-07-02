@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" width"100px"/>
-</p>
 <h1 align="center">Hi, I'm O'Brian Saavedra! :stars:</h1>
-<h3 align="center">  FrontEnd Developer Junior <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+<h3 align="center">  Desarrollador Web & Mobile Full Stack MERN Junior <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 
 ## About Me :wave:
 
